@@ -1,4 +1,6 @@
 /EverythingIsAweseomeRecipe
+/EverythingisAwesome.class
+/Greeter.class
 /GreeterRecipe
 /KnockKnockRecipe
 /LastSummerRecipe
@@ -7,5 +9,6 @@
 /RobotSquare.class
 /Welcome.class
 /robot.jar
-/EverythingisAwesome.class
-/Greeter.class
+/GreeterRecipe.class
+/EverrythingIsAwesome.class
+/KnockKnock.class
